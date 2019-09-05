@@ -1,0 +1,10 @@
+.mainBody{
+
+    background-size : cover
+}
+
+.img{
+    top: 50%;
+    left: 60%;
+    position: absolute;
+}
