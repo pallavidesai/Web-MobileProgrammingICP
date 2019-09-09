@@ -19,4 +19,16 @@ Mean Stack and Android learning
 •	Added the notifications icon and my image in the corner of the page and the recently opened tabs below the search bars of Google
 •	Create a 'cube shaped color grid' with 70X70 px height and width which are center alligned
 
+## Web ICP 3
+
+### Task 1
+* Build the game of rock paper scissors using JavaScript
+
+### Task 2
+
+* Create a page which looks like the below mockup that is in wiki 
+* Download the starter code and Follow the TODO instructions in the 'input.html' file
+* Make the page responsive and check its responsiveness as the screen size decreases
+* Find  the  closest  possible font to the  one  in  the  mockup  and  replace the existing font with it 
+
 
