@@ -31,4 +31,14 @@ Mean Stack and Android learning
 * Make the page responsive and check its responsiveness as the screen size decreases
 * Find  the  closest  possible font to the  one  in  the  mockup  and  replace the existing font with it 
 
+## Web ICP 4
+
+## Task 1 : Hover image
+
+* When user mouse hovers on the image, it should change the background of the empty frame with relevant image and text. 
+
+## Task 2
+
+* Create an app which makes the call to the GitHub API (https://api.github.com/) and displays user's account details when any user is searched by username
+
 
