@@ -41,4 +41,15 @@ Mean Stack and Android learning
 
 * Create an app which makes the call to the GitHub API (https://api.github.com/) and displays user's account details when any user is searched by username
 
+# Web Programming ICP 5
+### Submitted by : Pallavi Desai
+
+### To-do application
+* Develop a basic to-do list application using Angular
+
+
+### Calculator
+* Develop a basic calculator application using Angular
+
+
 
