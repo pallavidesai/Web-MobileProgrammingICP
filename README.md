@@ -41,8 +41,7 @@ Mean Stack and Android learning
 
 * Create an app which makes the call to the GitHub API (https://api.github.com/) and displays user's account details when any user is searched by username
 
-# Web Programming ICP 5
-### Submitted by : Pallavi Desai
+## Web Programming ICP 5
 
 ### To-do application
 * Develop a basic to-do list application using Angular
@@ -51,8 +50,7 @@ Mean Stack and Android learning
 ### Calculator
 * Develop a basic calculator application using Angular
 
-# Web Programming ICP 5
-### Submitted by : Pallavi Desai
+## Web Programming ICP 7
 
 * Library Management System is implemented in this class
 * The user can add and view the books from the collection of books in the library. 
