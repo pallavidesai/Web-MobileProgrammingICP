@@ -51,5 +51,13 @@ Mean Stack and Android learning
 ### Calculator
 * Develop a basic calculator application using Angular
 
+# Web Programming ICP 5
+### Submitted by : Pallavi Desai
+
+* Library Management System is implemented in this class
+* The user can add and view the books from the collection of books in the library. 
+* Implement Library Management System such that user should able to update the book details
+* Library Management System user should able to delete the book
+
 
 
