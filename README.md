@@ -57,5 +57,13 @@ Mean Stack and Android learning
 * Implement Library Management System such that user should able to update the book details
 * Library Management System user should able to delete the book
 
+## Mobile Programming ICP 1
+
+* Create the 'Login' button in login screen
+* When clicked on the 'LOGIN' button, the screen should navigate to the welcome screen if the login credentials are valid
+* Otherwise app should display an appropriate message to the user.
+* Create the 'LOGOUT' button on the welcome screen.
+* When clicked on 'LOGOUT' button, the screen should navigate to login screen
+
 
 
