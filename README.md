@@ -65,5 +65,16 @@ Mean Stack and Android learning
 * Create the 'LOGOUT' button on the welcome screen.
 * When clicked on 'LOGOUT' button, the screen should navigate to login screen
 
+# Mobile Programming ICP 2
+
+* The main activity should look like pizza ordering app
+* Add two more options for the toppings
+* Create the 'ORDER' and 'SUMMARY' buttons beside to each other
+* When clicked on the 'SUMMARY' button, the summary should display in a new activity in a List View
+* When clicked on the 'GO TO ORDER' button, the screen should navigate back to the order screen
+* When clicked on the 'ORDER' button, an option to send an email with the summary of the order should be displayed
+* Use Image, Button, Spinner, Checkbox, Radio Views, and Relative/Linear Layouts for completing the task
+* Include an appropriate icon for the app
+
 
 
