@@ -76,5 +76,10 @@ Mean Stack and Android learning
 * Use Image, Button, Spinner, Checkbox, Radio Views, and Relative/Linear Layouts for completing the task
 * Include an appropriate icon for the app
 
+# Mobile Programming ICP 3
+
+* The main activity should be a list of earthquakes with information
+* On clicking any item Earthquake, the user must be directed to the webpage of USGS which contains further information about the earthquake in the web browser. 
+
 
 
